@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+streamlit_drawable_canvas/__init__.py
+streamlit_drawable_canvas.egg-info/PKG-INFO
+streamlit_drawable_canvas.egg-info/SOURCES.txt
+streamlit_drawable_canvas.egg-info/dependency_links.txt
+streamlit_drawable_canvas.egg-info/requires.txt
+streamlit_drawable_canvas.egg-info/top_level.txt
