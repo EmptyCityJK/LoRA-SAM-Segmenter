@@ -1,6 +1,7 @@
 # 基于LoRa-SAM的图像分割工具
 ---
 **分割效果展示**
+
 ![demo](./demo/seg.png)
 
 这是一个基于 [Segment Anything](https://github.com/facebookresearch/segment-anything) 和 [Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation](https://github.com/zhang-haojie/wesam)论文模型的使用Streamlit搭建的图像分割web工具。
@@ -80,6 +81,9 @@ streamlit run sam_st.py
 ---
 
 ## Thanks to
+
 [segment anything](https://github.com/facebookresearch/segment-anything)
+
 [wesam](https://github.com/zhang-haojie/wesam)
+
 [streamlit-drawable-canvas](https://github.com/andfanilo/streamlit-drawable-canvas)
